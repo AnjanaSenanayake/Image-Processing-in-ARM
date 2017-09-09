@@ -1,5 +1,11 @@
-@ ARM Assembly - Mini project
-@ E/14/317
+@***************************************************************************************
+@    Title: Image Processor in ARM
+@    Author: Anjana Senanayake
+@    Date: 29/08/2017  
+@    Code version: v1.0
+@    Availability: https://github.com/AnjanaSenanayake/Image-Processing-in-ARM
+@
+@*************************************************************************************
 
 .text                       @ instruction memory
 
